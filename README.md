@@ -5,10 +5,10 @@ An AI-powered CSV Importer that intelligently transforms raw CSV data into CRM-r
 ## Live Demo
 
 **Frontend:**  
-https://YOUR-VERCEL-URL.vercel.app
+[https://YOUR-VERCEL-URL.vercel.app](https://groweasy-ai-importer-git-main-sevekari77-maxs-projects.vercel.app)
 
 **Backend API:**  
-https://YOUR-RENDER-URL.onrender.com
+[https://YOUR-RENDER-URL.onrender.com](https://groweasy-ai-importer-7cu4.onrender.com)
 
 ---
 
